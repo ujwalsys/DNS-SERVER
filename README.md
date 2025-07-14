@@ -1,5 +1,4 @@
 # DNS-SERVER
-Sure! Here’s a polished **GitHub-style README** with big sections, emojis, and all the info you asked for — including which libraries you installed.
 
 ---
 
